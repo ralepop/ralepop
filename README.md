@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi there 👋
+Student at School of Electrical Engineering, University of Belgrade
+📫 How to reach me: pr230404d@student.etf.bg.ac.rs
 <!--
 **ralepop/ralepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

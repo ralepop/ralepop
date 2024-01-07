@@ -1,6 +1,4 @@
-Hi there 👋 <br>
-Student at School of Electrical Engineering, University of Belgrade<br>
-📫 How to reach me: pr230404d@student.etf.bg.ac.rs
+Hi there 👋 
 <!--
 **ralepop/ralepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br>
+Student at School of Electrical Engineering, University of Belgrade<br>
+📫 How to reach me: pr230404d@student.etf.bg.ac.rs
 -->
